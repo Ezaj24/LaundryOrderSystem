@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LaundryOrderSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23267f4a79a84c37e28584d432f24a42c6d2e5be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+229aca7aa39df97aad7409f300fa0a822ef06720")]
 [assembly: System.Reflection.AssemblyProductAttribute("LaundryOrderSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LaundryOrderSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
