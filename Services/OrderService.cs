@@ -35,7 +35,8 @@ namespace LaundryOrderSystem.Services
                 Garments = garments,
                 TotalBill = total,
                 Status = OrderStatus.Received,
-                CreatedAt = DateTime.UtcNow
+                CreatedAt = DateTime.UtcNow,
+                EstimatedDelivery = DateTime.UtcNow.AddDays(2)
             };
 
             _orders.Add(order);
